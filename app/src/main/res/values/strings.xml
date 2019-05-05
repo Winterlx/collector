@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewCashCollecter</string>
+    <string name="_1000">1000</string>
+    <string name="_500">500</string>
+    <string name="_200">200</string>
+    <string name="total">total:</string>
+    <string name="deletePrevious">删除上一条</string>
+    <string name="copy">复制文本到剪贴板</string>
+    <string name="_0">0</string>
+    <string name="save">保存到本机</string>
+</resources>
